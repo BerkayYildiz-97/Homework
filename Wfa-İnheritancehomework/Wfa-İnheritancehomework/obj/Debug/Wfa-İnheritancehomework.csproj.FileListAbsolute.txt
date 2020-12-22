@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\bin\Debug\Wfa-İnheritancehomework.exe.config
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\bin\Debug\Wfa-İnheritancehomework.exe
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\bin\Debug\Wfa-İnheritancehomework.pdb
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa-İnheritancehomework.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa_İnheritancehomework.Form1.resources
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa_İnheritancehomework.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa-İnheritancehomework.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa-İnheritancehomework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa-İnheritancehomework.exe
+C:\Users\Lenovo\Desktop\homework\Wfa-İnheritancehomework\Wfa-İnheritancehomework\obj\Debug\Wfa-İnheritancehomework.pdb
